@@ -22,3 +22,5 @@ Once the contract is deployed, the contract owner can use the mint function to c
 
 License
 This contract is licensed under the MIT License.
+
+Nfts
